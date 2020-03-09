@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OptymalizacjaLancuchaDostawcow"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptymalizacjaLancuchaDostawcow">
+				<Option output="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/OptymalizacjaLancuchaDostawcow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 OptymalizacjaLancuchaDostawcow"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptymalizacjaLancuchaDostawcow/fast">
+				<Option output="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/OptymalizacjaLancuchaDostawcow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 OptymalizacjaLancuchaDostawcow/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/CRandom.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/CRandom.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/DiffEvol.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/DiffEvol.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Matrix.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Matrix.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/MscnProblem.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/MscnProblem.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/MscnSolution.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/MscnSolution.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Optimizer.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Problem.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/RandomSearch.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/RandomSearch.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Timer.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/Timer.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/TrivialOptimizer.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/TrivialOptimizer.h">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/main.cpp">
+			<Option target="OptymalizacjaLancuchaDostawcow"/>
+		</Unit>
+		<Unit filename="/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

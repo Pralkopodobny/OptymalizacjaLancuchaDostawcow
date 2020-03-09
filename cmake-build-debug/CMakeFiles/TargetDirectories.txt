@@ -1,0 +1,3 @@
+/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/CMakeFiles/OptymalizacjaLancuchaDostawcow.dir
+/home/marceli/GIT/OptymalizacjaLancuchaDostawcow/cmake-build-debug/CMakeFiles/edit_cache.dir
